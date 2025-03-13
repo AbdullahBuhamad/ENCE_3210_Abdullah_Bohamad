@@ -1,0 +1,67 @@
+(footprint "SOP65P640X110-16N"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -0.075 -3.635 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "c1049c4c-d34d-4164-ba8f-5bd9fef811c9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SOP65P640X110-16N"
+		(at 7.545 3.615 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "255415cd-c482-4ba0-b35a-a86c8d322483")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f9ffe70c-221c-4b71-97a6-1985e57a443d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "efb0c148-f543-4215-a8f4-9a04ff1e54d2")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a6d47aec-cec7-4510-b469-8bd0e41395aa")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+)

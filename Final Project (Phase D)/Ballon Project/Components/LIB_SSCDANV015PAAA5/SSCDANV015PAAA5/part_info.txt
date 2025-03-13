@@ -1,0 +1,9 @@
+Manufacturer=Honeywell
+PartNumber=SSCDANV015PAAA5
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=8
+Version=1.2
+Released=2020-06-10 11:13:08
+Downloaded=2025-03-11 07:12:15
+3D=Y

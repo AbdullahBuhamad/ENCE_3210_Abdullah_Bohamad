@@ -1,0 +1,12 @@
+Warning: Width correction constrained.  The width correction value must be in the range of [0.000001 mm; 0.199999 mm] for the current design rules.
+Plotted to '/Users/abood/Desktop/Final Project (Phase D)/Ballon Project/Ballon Project-F_Cu.gbr'.
+Plotted to '/Users/abood/Desktop/Final Project (Phase D)/Ballon Project/Ballon Project-B_Cu.gbr'.
+Plotted to '/Users/abood/Desktop/Final Project (Phase D)/Ballon Project/Ballon Project-F_Paste.gbr'.
+Plotted to '/Users/abood/Desktop/Final Project (Phase D)/Ballon Project/Ballon Project-B_Paste.gbr'.
+Plotted to '/Users/abood/Desktop/Final Project (Phase D)/Ballon Project/Ballon Project-F_Silkscreen.gbr'.
+Plotted to '/Users/abood/Desktop/Final Project (Phase D)/Ballon Project/Ballon Project-B_Silkscreen.gbr'.
+Plotted to '/Users/abood/Desktop/Final Project (Phase D)/Ballon Project/Ballon Project-F_Mask.gbr'.
+Plotted to '/Users/abood/Desktop/Final Project (Phase D)/Ballon Project/Ballon Project-B_Mask.gbr'.
+Plotted to '/Users/abood/Desktop/Final Project (Phase D)/Ballon Project/Ballon Project-Edge_Cuts.gbr'.
+Created Gerber job file '/Users/abood/Desktop/Final Project (Phase D)/Ballon Project/Ballon Project-job.gbrjob'.
+Info: Done.

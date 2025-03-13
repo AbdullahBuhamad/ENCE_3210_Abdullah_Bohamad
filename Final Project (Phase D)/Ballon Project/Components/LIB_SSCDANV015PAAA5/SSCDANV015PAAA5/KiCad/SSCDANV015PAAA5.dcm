@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SSCDANV015PAAA5
+D Sensor: pressure; Range:015psi; absolute; Output conf: analogue
+K
+F https://www.mouser.ch/datasheet/2/187/honeywell-sensing-trustability-ssc-series-standard-1095240.pdf
+$ENDCMP
+#
+#End Doc Library

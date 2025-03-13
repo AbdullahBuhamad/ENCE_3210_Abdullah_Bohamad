@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ABPDANN030PG0D3
+D Board Mount Pressure Sensor 0psi to 30psi Gage 6-Pin DIP Module
+K
+F https://prod-edam.honeywell.com/content/dam/honeywell-edam/sps/siot/en-us/products/sensors/pressure-sensors/board-mount-pressure-sensors/basic-abp-series/documents/sps-siot-basic-board-mount-pressure-abp-series-datasheet-32305128-ciid-155789.pdf?download=
+$ENDCMP
+#
+#End Doc Library
